@@ -1,0 +1,2 @@
+# HumanComputingProject
+Using the common smartphone, users are able to connect to others that are in the immediate vicinity with common interests. The application will allow an individual to gain common ground with the person they have just found based along these common interests. The application has immense privacy and safety controls built in granting the user the security over their life and who is included. 
